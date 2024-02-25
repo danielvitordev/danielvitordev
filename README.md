@@ -50,7 +50,7 @@
 ### Entre em contato comigo! 📭
 
 <div style="display: flex; align-items: center;">
-   <a href="[https://www.linkedin.com/in/daniel-vitor-3a2618b6/](https://www.linkedin.com/in/danielvitordev/)" target="_blank">
+   <a href="https://www.linkedin.com/in/danielvitordev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:daniel.vitor1@hotmail.com" target="_blank" style="text-decoration: none;">
