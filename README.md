@@ -4,7 +4,7 @@
 
 💻 Eu sou um desenvolvedor de software Back-End, apaixonado por tecnologia, leitura, esportes e entusiasta de boas conversas e conexões com pessoas. O potencial transformador da tecnologia na vida das pessoas foi um ponto crucial para minha transição de carreira para a área de Desenvolvimento de Software. Tenho experiência em projetos de estudos pessoais (Node.js, TypeScript, SQL, PostgreSQL) e projetos de estudos acadêmicos (Python). Possuo também conhecimentos básicos em Front-End (CSS3, HTML5).
 
-🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) na [Cubos Academy](https://cubos.academy/) e também sou estudante da Faculdade de Ciência e Tecnologia da [UFERSA](https://ufersa.edu.br/).
+🎓 Eu estudei [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) na [Cubos Academy](https://cubos.academy/) e também sou estudante da Faculdade de Ciência e Tecnologia da [UFERSA](https://ufersa.edu.br/).
 
 🔎 Sou curioso sobre tecnologia, desenvolvimento pessoal, psicologia, esportes e artes marciais em geral.
 
